@@ -2,6 +2,8 @@
 
 Un jeu d'arcade classique développé en Java utilisant la bibliothèque JavaFX. Le joueur contrôle une raquette pour faire rebondir une balle et détruire un mur de briques généré aléatoirement.
 
+![Apercu du jeu ](images/Breakout_game1.png)
+
 ##  Fonctionnalités
 * **Génération de niveau aléatoire :** Le jeu génère un mix de briques normales et de briques solides.
 * **Briques à résistance multiple :** Les briques solides nécessitent 3 coups pour être détruites, avec un changement de couleur visuel à chaque impact.
